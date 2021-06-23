@@ -1,8 +1,8 @@
 ### Hi there 🌿
 
-I'm web developer,
+I'm the MAD guy 🦝
 
-Call me by `Quyen Luu` or `クエン`.
+Call me by `Quyen Luu` || `クエン` || Lil
 
 ### Skills
 
@@ -16,7 +16,7 @@ Call me by `Quyen Luu` or `クエン`.
 
 ```yaml
 Languages:
- - JS(ES6) / TypeScript
+ - JS (ES6) / TypeScript
  - SCSS
  - PHP
 
@@ -26,8 +26,8 @@ Framework / lib:
  - Laravel
 ```
 
-### ⚡ Fun fact
-I'm single 😄
+### // TODO:
+Keep going
 
 <!--
 **90shits/90shits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
