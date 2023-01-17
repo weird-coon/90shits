@@ -1,8 +1,8 @@
 ### Hi there 🌿
 
-I'm the MAD guy 🦝
+The front-end engineer who is a MAD guy 🦝 Try to make things awesome.
 
-Call me by `Quyen Luu` || `クエン` || Lil
+Call me by `Quyen` || `クエン` || `Lil`
 
 ### Skills
 
@@ -20,12 +20,12 @@ Call me by `Quyen Luu` || `クエン` || Lil
 Languages:
  - JS (ES6) / TypeScript
  - SCSS
- - PHP
+ - PHP (Used to)
 
 Framework / lib:
  - ReactJS 
  - VueJS / NuxtJS / Vuetify
- - Laravel
+ - Laravel (Used to)
 ```
 
 ### // @TODO
